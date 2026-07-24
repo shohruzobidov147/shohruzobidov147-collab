@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Resume - Obidov Shohruz</title>
+<style>
+  @page { margin: 0.6in; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #222;
+    line-height: 1.5;
+    padding: 0.6in;
+    max-width: 8.5in;
+    margin: 0 auto;
+    background: #fff;
+  }
+  h1 { font-size: 26px; color: #1a1a1a; letter-spacing: 0.5px; }
+  .contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 18px;
+    font-size: 12.5px;
+    color: #444;
+    margin-top: 4px;
+  }
+  .contact a { color: #444; text-decoration: none; }
+  .section { margin-top: 16px; }
+  .section-title {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: #1a1a1a;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 3px;
+    margin-bottom: 8px;
+  }
+  .summary { font-size: 13px; color: #333; }
+  .edu { font-size: 13px; }
+  .edu .school { font-weight: 600; }
+  .edu .detail { color: #555; }
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 4px 12px;
+    font-size: 13px;
+  }
+  .skills-grid .label { font-weight: 600; color: #333; }
+  .skills-grid .value { color: #444; }
+  .project { margin-bottom: 10px; font-size: 13px; }
+  .project .title { font-weight: 700; font-size: 13.5px; }
+  .project .desc { color: #444; margin-top: 2px; }
+  .project .tech { color: #666; font-size: 12px; margin-top: 2px; }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 0 30px; }
+  .lang-item, .interest-item { font-size: 13px; }
+  .cert-note { font-size: 12.5px; color: #888; font-style: italic; }
+</style>
+</head>
+<body>
+
+<h1>Obidov Shohruz Fahriddinovich</h1>
+<div class="contact">
+  <span>Tashkent, Uzbekistan</span>
+  <span>+998 88 798 2801</span>
+  <a href="mailto:shadowuchiha270306@gmail.com">shadowuchiha270306@gmail.com</a>
+  <a href="https://github.com/shadowuchiha270306-collab">github.com/shadowuchiha270306-collab</a>
+  <a href="https://linkedin.com/in/shohruz-obidov">linkedin.com/in/shohruz-obidov</a>
+</div>
+
+<div class="section">
+  <div class="section-title">Professional Summary</div>
+  <div class="summary">
+    Second-year Economics student at Tashkent State University of Economics with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. Experienced in building practical AI applications including RAG systems, computer vision tools, and machine learning models using Python. Passionate about solving programming challenges and continuously learning modern technologies.
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Education</div>
+  <div class="edu">
+    <div class="school">Tashkent State University of Economics (TSUE)</div>
+    <div class="detail">Bachelor's Degree in Economics — Expected Graduation: 2029</div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Technical Skills</div>
+  <div class="skills-grid">
+    <span class="label">Programming</span>
+    <span class="value">Python</span>
+    <span class="label">Data Science</span>
+    <span class="value">NumPy, Pandas, Matplotlib, Scikit-learn</span>
+    <span class="label">Machine Learning</span>
+    <span class="value">Linear Regression, Logistic Regression, Data Preprocessing, Feature Engineering, One-Hot Encoding, Standardization, Model Evaluation</span>
+    <span class="label">AI & NLP</span>
+    <span class="value">Retrieval-Augmented Generation (RAG), Sentence Transformers, FAISS, BM25, Cross-Encoder Re-ranking</span>
+    <span class="label">Deep Learning</span>
+    <span class="value">PyTorch, CUDA GPU Acceleration</span>
+    <span class="label">Computer Vision</span>
+    <span class="value">OpenCV, Face Recognition, Image Processing</span>
+    <span class="label">Tools</span>
+    <span class="value">Jupyter Notebook, VS Code, Ollama, Git</span>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Projects</div>
+
+  <div class="project">
+    <div class="title">Uzbek Hybrid RAG AI Assistant</div>
+    <div class="desc">
+      Developed a Retrieval-Augmented Generation (RAG) assistant capable of answering questions using uploaded PDF documents and Uzbek Wikipedia. Combined semantic search with keyword search to improve retrieval quality.
+    </div>
+    <div class="tech">Technologies: Python, FAISS, Sentence Transformers, BM25, Cross-Encoder, Ollama</div>
+  </div>
+
+  <div class="project">
+    <div class="title">Offline Voice AI Assistant</div>
+    <div class="desc">
+      Built an offline voice assistant capable of listening for a wake word and responding locally without relying on cloud services. Integrated speech recognition, text-to-speech, and local language models.
+    </div>
+  </div>
+
+  <div class="project">
+    <div class="title">Face Recognition System</div>
+    <div class="desc">
+      Created a face recognition application that identifies known users and allows registration of new users through a webcam. Features real-time face detection, user registration, and local dataset management.
+    </div>
+  </div>
+
+  <div class="project">
+    <div class="title">Machine Learning House Price Prediction</div>
+    <div class="desc">
+      Developed a regression model for house price prediction using data preprocessing, feature engineering, scaling, and linear regression. Achieved approximately 0.92 R² score on the evaluation dataset.
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Relevant Coursework</div>
+  <div style="font-size:13px;">Python Programming, Data Analysis, Machine Learning Fundamentals, Artificial Intelligence, Computer Vision, Natural Language Processing</div>
+</div>
+
+<div class="section two-col">
+  <div>
+    <div class="section-title">Languages</div>
+    <div class="lang-item"><strong>Uzbek</strong> — Native</div>
+    <div class="lang-item"><strong>English</strong> — Upper-Intermediate (IELTS 6.5)</div>
+  </div>
+  <div>
+    <div class="section-title">Interests</div>
+    <div class="interest-item">Artificial Intelligence, Machine Learning, Data Science, Computer Vision, Natural Language Processing, Software Development</div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Certifications</div>
+  <div class="cert-note">Upcoming — expected within 1 month.</div>
+</div>
+
+</body>
+</html>
