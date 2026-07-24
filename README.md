@@ -17,9 +17,10 @@
 ## 📂 Projects
 | Project | Description |
 |---------|-------------|
-| [AI Data Analysis Agent](https://github.com/shadowuchiha270306-collab/ai-data-analysis-agent) | AI-powered data analysis agent |
-| [Travel Agent](https://github.com/shadowuchiha270306-collab/travel-agent) | AI travel planning agent |
-| [Uzbek RAG Agent](https://github.com/shadowuchiha270306-collab/uzbek-rag-agent) | Hybrid RAG assistant for Uzbek language |
+| [AI Data Analysis Agent](https://github.com/shohruzobidov147/ai-data-analysis-agent) | AI-powered data analysis agent |
+| [Travel Agent](https://github.com/shohruzobidov147/travel-agent) | AI travel planning agent |
+| [Uzbek RAG Agent](https://github.com/shohruzobidov147/uzbek-rag-agent) | Hybrid RAG assistant for Uzbek language |
 
 ## 📄 Resume
 [Download Resume (PDF)](resume.pdf)
+
