@@ -20,6 +20,8 @@
 | [AI Data Analysis Agent](https://github.com/shohruzobidov147/ai-data-analysis-agent) | AI-powered data analysis agent |
 | [Travel Agent](https://github.com/shohruzobidov147/travel-agent) | AI travel planning agent |
 | [Uzbek RAG Agent](https://github.com/shohruzobidov147/uzbek-rag-agent) | Hybrid RAG assistant for Uzbek language |
+| [Grocery Shop](https://github.com/shohruzobidov147/grocery-shop) | Interactive grocery web app with search, cart & checkout |
+| [AI File Chat](https://github.com/shohruzobidov147/ai-file-chat) | Chat with your files using local AI (Ollama + Flask) |
 
 ## 📄 Resume
 [Download Resume (PDF)](resume.pdf)
