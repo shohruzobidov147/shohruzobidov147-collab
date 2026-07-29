@@ -8,7 +8,7 @@
 - 🔗 LinkedIn: [Shohruz Obidov](https://linkedin.com/in/shohruz-obidov)
 
 ## 🛠️ Tech Stack
-- **Languages:** Python
+- **Languages:** Python, JavaScript
 - **ML/DL:** PyTorch, Scikit-learn, FAISS
 - **Data Science:** NumPy, Pandas, Matplotlib
 - **CV:** OpenCV, Face Recognition
@@ -22,6 +22,7 @@
 | [Uzbek RAG Agent](https://github.com/shohruzobidov147/uzbek-rag-agent) | Hybrid RAG assistant for Uzbek language |
 | [Grocery Shop](https://github.com/shohruzobidov147/grocery-shop) | Interactive grocery web app with search, cart & checkout |
 | [AI File Chat](https://github.com/shohruzobidov147/ai-file-chat) | Chat with your files using local AI (Ollama + Flask) |
+| [Huquq Ai](https://github.com/shohruzobidov147/huquq-ai) | Legal document RAG with React + Ollama for Uzbek legislation |
 
 ## 📄 Resume
 [Download Resume (PDF)](resume.pdf)
