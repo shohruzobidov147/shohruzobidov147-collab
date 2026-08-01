@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript
-- **ML/DL:** PyTorch, Scikit-learn, FAISS
+- **ML/DL:** PyTorch, Scikit-learn, XGBoost, LightGBM, CatBoost, FAISS
 - **Data Science:** NumPy, Pandas, Matplotlib
 - **CV:** OpenCV, Face Recognition
 - **NLP:** RAG, Sentence Transformers, BM25
@@ -23,6 +23,7 @@
 | [Grocery Shop](https://github.com/shohruzobidov147/grocery-shop) | Interactive grocery web app with search, cart & checkout |
 | [AI File Chat](https://github.com/shohruzobidov147/ai-file-chat) | Chat with your files using local AI (Ollama + Flask) |
 | [Huquq Ai](https://github.com/shohruzobidov147/huquq-ai) | Legal document RAG with React + Ollama for Uzbek legislation |
+| [Classical ML Final Project](https://github.com/shohruzobidov147/Classical-ML-Final-Project) | Full ML pipeline on 3 real datasets: EDA, feature engineering, XGBoost/LightGBM/CatBoost tuning & comparison |
 
 ## 📄 Resume
 [Download Resume (PDF)](resume.pdf)
