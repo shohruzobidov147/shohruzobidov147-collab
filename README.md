@@ -12,7 +12,10 @@
 - **ML/DL:** PyTorch, Scikit-learn, XGBoost, LightGBM, CatBoost, FAISS
 - **Data Science:** NumPy, Pandas, Matplotlib
 - **CV:** OpenCV, Face Recognition
-- **NLP:** RAG, Sentence Transformers, BM25
+- **NLP:** RAG, Sentence Transformers, BM25, Cross-Encoder Re-ranking
+- **LLM & RAG:** Ollama, Llama 3.2, RAG pipelines, Vector Databases
+- **Web Backend:** Flask, FastAPI, Streamlit, Express
+- **Web Frontend:** React, Vite, HTML/CSS
 
 ## 📂 Projects
 | Project | Description |
@@ -22,8 +25,14 @@
 | [Uzbek RAG Agent](https://github.com/shohruzobidov147/uzbek-rag-agent) | Hybrid RAG assistant for Uzbek language |
 | [Grocery Shop](https://github.com/shohruzobidov147/grocery-shop) | Interactive grocery web app with search, cart & checkout |
 | [AI File Chat](https://github.com/shohruzobidov147/ai-file-chat) | Chat with your files using local AI (Ollama + Flask) |
+| [Lawliet](https://github.com/shohruzobidov147/Lawliet) | Ask questions about documents in a local folder using a local LLM via Ollama — no uploads, no API keys |
 | [Huquq Ai](https://github.com/shohruzobidov147/huquq-ai) | Legal document RAG with React + Ollama for Uzbek legislation |
 | [Classical ML Final Project](https://github.com/shohruzobidov147/Classical-ML-Final-Project) | Full ML pipeline on 3 real datasets: EDA, feature engineering, XGBoost/LightGBM/CatBoost tuning & comparison |
+
+## 🚀 Recently Built
+- [Lawliet](https://github.com/shohruzobidov147/Lawliet) — document Q&A over local files with Ollama (no uploads, no API keys)
+- [Huquq Ai](https://github.com/shohruzobidov147/huquq-ai) — legal document RAG for Uzbek legislation
+- [Classical ML Final Project](https://github.com/shohruzobidov147/Classical-ML-Final-Project) — full ML pipeline: EDA, feature engineering, XGBoost/LightGBM/CatBoost tuning & comparison
 
 ## 📄 Resume
 [Download Resume (PDF)](resume.pdf)
